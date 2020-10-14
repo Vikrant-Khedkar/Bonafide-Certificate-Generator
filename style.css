@@ -1,48 +1,40 @@
 input{
-    border-radius: 25px;
-    background: white;
-    padding: 20px;
-    width: 450px;
-    height: 15px;
-    padding-left: 10px;
-    padding-right: 10px;
-    }
-    label{
-            font-family: Arial, Helvetica, sans-serif;
-            font-size : 50px;
-            color : #FFFFFF;
-            color : rgb(255, 255, 255);
-            padding-right: 20px;
-            padding-left: 100px;
-            display: inline-block;
-    }
-    h1{
+border-radius: 25px;
+background: white;
+padding: 20px;
+width: 450px;
+height: 15px;
+padding-left: 10px;
+padding-right: 10px;
+font-size: large;
+}
+label{
         font-family: Arial, Helvetica, sans-serif;
-        font-size: 70px;
-        
-    }
-    button{
-        background-color: black;border-radius: 25px;display: block;
-    margin: 0 auto;
-    color: white;
-    border-color: #FFFFFF;
-    font-size: 45px;
-    }
-    select{
-        height: 25px;
-        width: 500px;
-        padding: 25px;
-        border-radius: 25px;
-        border-color: black;
-        color: black;
-    }
-    body{
-        background-color: bisque;
-        margin: 0;
-        padding: 0;
-    }
-    }
-    form{
-        width: 300px;
-     margin: 0 auto;
-    }
+        font-size : 60px;
+        color : #FFFFFF;
+        color : rgb(255, 255, 255);
+        padding-right: 20px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 70px;
+    
+}
+button{
+    background-color: black;border-radius: 25px;display: block;
+margin: 0 auto;
+color: white;
+border-color: #FFFFFF;
+font-size: 45px;
+}
+select{
+    height: 55px;
+    width: 400px;
+    border-radius: 25px;
+    border-color: black;
+    font-size: large;
+    
+}
+body{
+    background-color: bisque;
+}
